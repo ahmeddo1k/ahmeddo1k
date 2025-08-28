@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" alt="Dark Matrix Banner">
 </p>
 
-<h1 align="center">⚡ Welcome to My Cyber World ⚡</h1>
+<h1 align="center">✨ Welcome to My Cyber World 🏴‍☠️</h1>
 
 ---
 
