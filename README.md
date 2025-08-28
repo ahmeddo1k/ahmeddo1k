@@ -1,6 +1,28 @@
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmeddo1k&show_icons=true&theme=radical)
+# 👋 مرحبًا بك في بروفايلي!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddo1k&layout=compact&theme=radical)
+أنا أحمد، مهندس أمن سيبراني 🛡️ ومبرمج 💻، بحب أكتشف الثغرات وأساعد الناس ضد الابتزاز 👨‍💻.
 
-![Profile views](https://komarev.com/ghpvc/?username=ahmeddo1k&color=green)
-![GitHub followers](https://img.shields.io/github/followers/ahmeddo1k?label=Followers&style=social)
+---
+
+## 🚀 عني
+- 🛡️ Cybersecurity Engineer & Bug Hunter  
+- 💻 أحب البرمجة و صناعة ادوات جديده
+- 🌍 أساعد الناس على البقاء آمنين أونلاين  
+
+---
+
+## 🛠️ الأدوات والتقنيات
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?style=for-the-badge)
+
+---
+
+## 📫 تواصل معي
+- 💌 [Email](mailto:swdefrr10@gmail.com)  
+
+- 🃏 [Telegram](t.me/D_O_1K)  
+
+---
+✨ شكرًا لزيارتك بروفايلي!
