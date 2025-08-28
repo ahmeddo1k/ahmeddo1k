@@ -1,28 +1,44 @@
-# 👋 مرحبًا بك في بروفايلي!
+<!-- Banner مرعب -->
+<p align="center">
+  <img src="https://i.ibb.co/1nY3dQn/matrix-hacker.gif" width="100%" alt="Hacker Banner">
+</p>
 
-أنا أحمد، مهندس أمن سيبراني 🛡️ ومبرمج 💻، بحب أكتشف الثغرات وأساعد الناس ضد الابتزاز 👨‍💻.
+# 💀 Welcome to the Dark Side 👾
 
----
-
-## 🚀 عني
-- 🛡️ Cybersecurity Engineer & Bug Hunter  
-- 💻 أحب البرمجة و صناعة ادوات جديده
-- 🌍 أساعد الناس على البقاء آمنين أونلاين  
-
----
-
-## 🛠️ الأدوات والتقنيات
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-blue?style=for-the-badge)
+## 🕶️ عني
+- 🛡️ Cybersecurity Engineer & Ethical Hacker  
+- 🐍 Bug Hunter - أبحث وأكسر لأحمي  
+- 👨‍💻 مهووس بالبرمجة و Linux  
+- 🔐 هدفي: حماية الناس من الابتزاز والاختراق  
 
 ---
 
-## 📫 تواصل معي
-- 💌 [Email](mailto:swdefrr10@gmail.com)  
-
-- 🃏 [Telegram](t.me/D_O_1K)  
+## ⚡ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-2C2C32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+</p>
 
 ---
-✨ شكرًا لزيارتك بروفايلي!
+
+## 👁️‍🗨️ Quote
+> "The quieter you become, the more you are able to hear."  
+
+---
+
+## 📡 Connect With Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/6WsFRtL/hacker-typing.gif" width="400"/>
+</p>
